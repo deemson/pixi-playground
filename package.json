@@ -1,0 +1,28 @@
+{
+  "name": "pixi-playground",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deemson/pixi-playground.git"
+  },
+  "author": "Dmytro Kurkin",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/deemson/pixi-playground/issues"
+  },
+  "homepage": "https://github.com/deemson/pixi-playground#readme",
+  "devDependencies": {
+    "@types/jest": "^29.2.4",
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.3",
+    "typescript": "^4.9.4",
+    "vite": "^4.0.0"
+  }
+}
